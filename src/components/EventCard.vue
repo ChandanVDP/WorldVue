@@ -13,7 +13,6 @@
 </template>
 
 <script>
-import BaseIcon from "@/components/BaseIcon.vue";
 export default {
   data() {
     return {
@@ -28,9 +27,6 @@ export default {
         ]
       }
     };
-  },
-  components: {
-    BaseIcon
   }
 };
 </script>
